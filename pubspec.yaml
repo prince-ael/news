@@ -26,6 +26,8 @@ dependencies:
   sqflite: ^1.2.0
   path_provider: ^1.5.1
   http: ^0.12.0+4
+  # Causes version conflict with flutter test.
+  # test: ^1.11.0
 
 dev_dependencies:
   flutter_test:
