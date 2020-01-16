@@ -66,3 +66,4 @@ ios/Runner.xcodeproj/
 ios/Runner.xcworkspace/
 ios/Flutter/Debug.xcconfig
 ios/Flutter/Release.xcconfig
+ios/Podfile
